@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jinlong He"
-  pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.jpg"
+  name             : "Jinlong He/何金龙"
+  pronouns         : "he/him"
+  bio              : "I am a master's student majoring in software engineering at Harbin Engineering University. My research interests include medical multi-modality, medical multi-modal large language models, medical visual question answering and remote sensing visual question answering"
+  location         : "Harbin, Heilongjiang, China"
+  employer         : "Harbin Engineering University"
   uri              : # URL
   email            : "hejinlong@hrbeu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=8qxFJPUAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-8891-554X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Jinlong-He-4"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
