@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained both my Bachelor's and Master's degrees in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/). During my master's studies, I conducted research under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at Monash University. My research interests include medical multi-modality, medical multi-modal LLMs, medical VQA, and remote sensing VQA.
+- I obtained both my Bachelor's and Master's degrees in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/). During my master's studies, I conducted research under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at Monash University. My research interests include medical multi-modality, medical multi-modal LLMs, medical VQA, and remote sensing VQA.
+- I enjoy fitness, playing PC games, and collecting a plethora of papers that I might not thoroughly read. If you are interested in my research, feel free to contact me. I am happy to collaborate on research projects, and I also welcome companions for fitness (in-person only) and gaming.
 
-The Line of Life
+Recent News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
