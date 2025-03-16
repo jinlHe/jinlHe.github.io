@@ -35,9 +35,3 @@ Remote Sensing. 2023. 15(19):4682. https://doi.org/10.3390/rs15194682 (2023 SCI-
 * DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction <br>
 Gang Liu, Dongze Zhang, **Jinlong He***, Tongli Wang, Shenjun Zhong <br>
 The 20th International Conference on Mobility, Sensing and Networking (MSN 2025)<br>
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
