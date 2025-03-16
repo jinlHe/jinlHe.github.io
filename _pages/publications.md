@@ -11,7 +11,8 @@ author_profile: true
 
 * PERS: Parameter-Efficient Multi-modal Transfer Learning for Remote Sensing Visual Question Answering <br>
 <b>Jinlong He</b>, Pengfei Li, Gang Liu*, Xiaonan Su, Wenhua Jiang and Shenjun Zhong <br>
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JStars), vol. 17, pp. 14823-14835, 2024, doi: 10.1109/JSTARS.2024.3447086. (2024 IF 4.7)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JStars), vol. 17, pp. 14823-14835, 2024, doi: 10.1109/JSTARS.2024.3447086. (2024 SCI-Q1-TOP IF 4.7) <br>
+[[paper](https://ieeexplore.ieee.org/abstract/document/10643278/)]]
 {% include base_path %}
 
 {% for post in site.publications reversed %}
