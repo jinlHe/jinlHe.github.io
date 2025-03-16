@@ -11,6 +11,6 @@ redirect_from:
 
 Recent News
 ======
-* Jan 3, 2025. Our paper <b>Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding</b> was accepted by <b>ISBI 2025</b>.
-* Nov 7, 2024. Our paper <b>Cross-Modal Self-Supervised Vision Language Pre-training with Multiple Objectives for Medical Visual Question Answering</b> was accepted by Journal of Biomedical Informatics <b>(JBI)</b>.
-* Aug14, 2024. our paper <b>PERS: Parameter-Efficient Multi-modal Transfer Learning for Remote Sensing Visual Question Answering</b> was received by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <b>(JStars)</b>.
+* Jan 3, 2025, our paper <b>Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding</b> was accepted by <b>ISBI 2025</b>.
+* Nov 7, 2024, our paper <b>Cross-Modal Self-Supervised Vision Language Pre-training with Multiple Objectives for Medical Visual Question Answering</b> was accepted by Journal of Biomedical Informatics <b>(JBI)</b>.
+* Aug14, 2024, our paper <b>PERS: Parameter-Efficient Multi-modal Transfer Learning for Remote Sensing Visual Question Answering</b> was received by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <b>(JStars)</b>.
