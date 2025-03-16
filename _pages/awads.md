@@ -21,3 +21,5 @@ Awards
 Honors
 ======
 * 2023 Excellent Student Cadre
+* 2019 Harbin Engineering University Campus Guinness: One Minute Hula Hoop-1st (257/minute)
+* 2019 Harbin Engineering University Campus Guinness: Pull-up-3rd (25)
