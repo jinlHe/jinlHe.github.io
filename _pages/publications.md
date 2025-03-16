@@ -39,3 +39,4 @@ The 20th International Conference on Mobility, Sensing and Networking (MSN 2025)
 * PECR: Parameter-Efficient Transfer Learning with Cross-Modal Representation Learning for Remote Sensing Visual Question Answering <br>
 <b>Pengfei Li, Jinlong He</b>, Gang Liu* and Shenjun Zhong <br>
 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024), pp. 6740-6744, doi: 10.1109/ICASSP48485.2024.10446146 <br>
+[[paper](https://ieeexplore.ieee.org/abstract/document/10446146/)]
