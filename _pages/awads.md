@@ -20,6 +20,7 @@ Awards
 
 Honors
 ======
+* 2025 Outstanding Graduate of Harbin Engineering University
 * 2023 Excellent Student Cadre
 * 2019 Harbin Engineering University Campus Guinness: One Minute Hula Hoop-1st <b>(257/minute)</b>
 * 2019 Harbin Engineering University Campus Guinness: Pull-up-3rd (25)
