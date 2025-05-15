@@ -12,7 +12,7 @@ redirect_from:
 Recent News
 ======
 * Apr 8, 2025, I got the <b>2025 Outstanding Graduate of Harbin Engineering University</b>.
-* Jan 3, 2025, our paper <b>Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding</b> was accepted by <b>2025 IEEE 22th International Symposium on Biomedical Imaging[(ISBI 2025)](https://biomedicalimaging.org/2025/)</b>.
+* Jan 3, 2025, our paper <b>Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding</b> was accepted by <b>2025 IEEE 22th International Symposium on Biomedical Imaging[(ISBI 2025)](https://biomedicalimaging.org/2025/)</b>.[[paper](https://ieeexplore.ieee.org/document/10981029?source=AUTHORALERT&dld=aHJiZXUuZWR1LmNu)]
 * Nov 7, 2024, our paper <b>Cross-Modal Self-Supervised Vision Language Pre-training with Multiple Objectives for Medical Visual Question Answering</b> was accepted by <b>Journal of Biomedical Informatics[(JBI)](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</b>.[[paper](https://www.sciencedirect.com/science/article/pii/S1532046424001667)]
 * Oct 8, 2024, our paper <b>DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction</b> was accepted by <b>20th International Conference on Mobility, Sensing and Networking[(MSN 2024)](https://ieee-msn.org/2024/)</b>. Congratulations to DongZe.
 * Sep 21, 2024, I got the <b>Xiaomi Scholarship </b> (ranked 4/224) - ¥5000 ($690).

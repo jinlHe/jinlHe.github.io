@@ -31,6 +31,7 @@ Remote Sensing. 2023. 15(19):4682. https://doi.org/10.3390/rs15194682 (2023 SCI-
 * Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding <br>
 <b>Jinlong He</b>, Gang Liu*, Pengfei Li and Shenjun Zhong <br>
 <b>2025 IEEE 22th International Symposium on Biomedical Imaging(ISBI 2025)</b><br>
+[[paper](https://ieeexplore.ieee.org/document/10981029?source=AUTHORALERT&dld=aHJiZXUuZWR1LmNu)]
 
 * DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction <br>
 Gang Liu, Dongze Zhang, <b>Jinlong He*</b>, Tongli Wang, Shenjun Zhong <br>
