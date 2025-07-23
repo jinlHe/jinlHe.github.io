@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I obtained both my Bachelor's and Master's degrees in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/). During my master's studies, I conducted research under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at Monash University. My research interests include medical multi-modality, medical multi-modal LLMs, medical VQA, and remote sensing VQA.
+- I obtained both my Bachelor's and Master's degrees in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/). During my master's studies, I conducted research under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at Monash University. 
+- Currently, I am pursuing my Ph.D. in Mechanical Engineering at the [HiLab](https://hilab.uestc.edu.cn/#/index) in the [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51), under the supervision of Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm). My research interests include medical multi-modality, medical MLLMs, medical VQA.
 - I enjoy fitness, playing PC games, and collecting a plethora of papers that I might not thoroughly read. If you are interested in my research, feel free to contact me. I am happy to collaborate on research projects, and I also welcome companions for fitness and gaming.
 
 Recent News
