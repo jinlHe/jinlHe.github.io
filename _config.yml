@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Jinlong He/何金龙"
   pronouns         : "he/him"
-  bio              : "I am a master's student majoring in software engineering. My research interests include medical multi-modality, medical multi-modal LLMs, medical VQA and remote sensing VQA"
-  location         : "Harbin, Heilongjiang, China"
-  employer         : "Harbin Engineering University"
+  bio              : "I am a master's student majoring in software engineering. My research interests include medical multi-modality, medical multi-modal LLMs, medical VQA"
+  location         : "Chengdu, Sichuan, China"
+  employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
   email            : "hejinlong@hrbeu.edu.cn"
 
