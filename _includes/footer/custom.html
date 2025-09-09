@@ -2,30 +2,59 @@
 <a href="/sitemap/">Sitemap</a>
 
 <!-- Map Widget for visitor tracking -->
-<div class="visitor-map-container" style="text-align: center; margin: 20px auto; max-width: 600px; overflow: hidden;">
+<div class="visitor-map-container" style="text-align: center; margin: 20px auto; max-width: 400px; overflow: hidden; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FsNph_zOL1JXE_hqvc5YHS6PbwVS7iW3d3SFzRZlwfI&cl=ffffff&w=a"></script>
 </div>
 
 <style>
-/* 控制 Map Widget 的尺寸和样式 */
+/* 强制控制 Map Widget 的尺寸和样式 */
 .visitor-map-container {
-  position: relative;
-  z-index: 1;
+  position: relative !important;
+  z-index: 1 !important;
+  clear: both !important;
+  box-sizing: border-box !important;
 }
 
+/* 针对所有可能的子元素进行强制尺寸控制 */
+.visitor-map-container *,
 .visitor-map-container script,
 .visitor-map-container iframe,
-.visitor-map-container img {
-  max-width: 100% !important;
+.visitor-map-container img,
+.visitor-map-container canvas,
+.visitor-map-container div,
+.visitor-map-container table,
+.visitor-map-container tr,
+.visitor-map-container td {
+  max-width: 380px !important;
+  width: 380px !important;
   height: auto !important;
-  max-height: 300px !important;
-}
-
-/* 防止地图覆盖其他内容 */
-.visitor-map-container > * {
+  max-height: 250px !important;
   position: relative !important;
   display: block !important;
   margin: 0 auto !important;
+  border: none !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* 防止地图覆盖其他内容 */
+.visitor-map-container {
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+/* 额外的保护措施 */
+.visitor-map-container::before {
+  content: "";
+  display: block;
+  height: 20px;
+}
+
+.visitor-map-container::after {
+  content: "";
+  display: block;
+  height: 20px;
+  clear: both;
 }
 </style>
 <!-- end custom footer snippets -->
