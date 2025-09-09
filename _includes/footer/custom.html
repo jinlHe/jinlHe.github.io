@@ -2,7 +2,30 @@
 <a href="/sitemap/">Sitemap</a>
 
 <!-- Map Widget for visitor tracking -->
-<div style="text-align: center; margin-top: 20px;">
+<div class="visitor-map-container" style="text-align: center; margin: 20px auto; max-width: 600px; overflow: hidden;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FsNph_zOL1JXE_hqvc5YHS6PbwVS7iW3d3SFzRZlwfI&cl=ffffff&w=a"></script>
 </div>
+
+<style>
+/* 控制 Map Widget 的尺寸和样式 */
+.visitor-map-container {
+  position: relative;
+  z-index: 1;
+}
+
+.visitor-map-container script,
+.visitor-map-container iframe,
+.visitor-map-container img {
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: 300px !important;
+}
+
+/* 防止地图覆盖其他内容 */
+.visitor-map-container > * {
+  position: relative !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+</style>
 <!-- end custom footer snippets -->
