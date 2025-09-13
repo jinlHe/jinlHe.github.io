@@ -70,7 +70,9 @@ Gang Liu, <strong><span style="color: #28a745;">Jinlong He</span></strong>, Peng
 
 <strong>DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction</strong>  
 Gang Liu, Dongze Zhang, <strong><span style="color: #fd7e14;">Jinlong He*</span></strong>, Tongli Wang, Shenjun Zhong  
-<strong>The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</strong>
+<strong>The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</strong>, pp. 665-672
+DOI: 10.1109/MSN63567.2024.00095
+<a href="https://ieeexplore.ieee.org/document/11036338">Paper</a>
 
 </div>
 
@@ -90,10 +92,10 @@ DOI: 10.1109/ICASSP48485.2024.10446146
 
 <div style="border-left: 4px solid #6f42c1; padding-left: 15px; margin: 20px 0; background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
 
-<strong>📄 PeFoMed: Parameter Efficient Fine-tuning of Multimodal Large Language Models for Medical Imaging</strong>  
+<strong>PeFoMed: Parameter Efficient Fine-tuning of Multimodal Large Language Models for Medical Imaging</strong>  
 <strong><span style="color: #6f42c1;">Jinlong He, Pengfei Li</span></strong>, Gang Liu*, Genrong He, Zhaolin Chen and Shenjun Zhong*  
-📅 <strong>arXiv Preprint</strong> (2024)  
-[📖 Paper](https://arxiv.org/pdf/2401.02797)
+<strong>arXiv Preprint</strong> (2024)  
+<a href="https://arxiv.org/pdf/2401.02797">Paper</a>
 
 </div>
 
