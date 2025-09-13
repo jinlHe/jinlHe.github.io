@@ -22,15 +22,6 @@ redirect_from:
 
 > 🏥 **Medical Multi-modality** | 🤖 **Medical MLLMs** | ❓ **Medical VQA**
 
-## 🌟 Personal Interests
-
-💪 **Fitness Enthusiast** | 🎮 **PC Gaming** | 📖 **Paper Collector** *(who might not read them all...)*
-
-🤝 **Let's Connect!** I'm always excited to:
-- 🔬 **Collaborate** on research projects
-- 💪 **Work out** together  
-- 🎮 **Game** together
-
 ## 🗞️ Recent News & Achievements
 
 ### 🎓 2025
