@@ -6,19 +6,45 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I obtained both my Bachelor's and Master's degrees in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/). During my master's studies, I conducted research under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at Monash University. 
-- Currently, I am pursuing my Ph.D. in Mechanical Engineering at the [HiLab](https://hilab.uestc.edu.cn/#/index) in the [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51), under the supervision of Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm). My research interests include medical multi-modality, medical MLLMs, medical VQA.
-- I enjoy fitness, playing PC games, and collecting a plethora of papers that I might not thoroughly read. If you are interested in my research, feel free to contact me. I am happy to collaborate on research projects, and I also welcome companions for fitness and gaming.
 
-Recent News
-======
-* May 23, 2025, I was admitted to the [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm) at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) and officially joined the [HiLab](https://hilab.uestc.edu.cn/#/index) as a doctoral student under the supervision of Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm).
-* Apr 8, 2025, I got the <b>2025 Outstanding Graduate of Harbin Engineering University</b>.
-* Jan 3, 2025, our paper <b>Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding</b> was accepted by <b>2025 IEEE 22th International Symposium on Biomedical Imaging[(ISBI 2025)](https://biomedicalimaging.org/2025/)</b>.[[paper](https://ieeexplore.ieee.org/document/10981029?source=AUTHORALERT&dld=aHJiZXUuZWR1LmNu)]
-* Nov 7, 2024, our paper <b>Cross-Modal Self-Supervised Vision Language Pre-training with Multiple Objectives for Medical Visual Question Answering</b> was accepted by <b>Journal of Biomedical Informatics[(JBI)](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)</b>.[[paper](https://www.sciencedirect.com/science/article/pii/S1532046424001667)]
-* Oct 8, 2024, our paper <b>DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction</b> was accepted by <b>20th International Conference on Mobility, Sensing and Networking[(MSN 2024)](https://ieee-msn.org/2024/)</b>. Congratulations to DongZe.
-* Sep 21, 2024, I got the <b>Xiaomi Scholarship </b> (ranked 4/224) - ¥5000 ($690).
-* Aug 14, 2024, our paper <b>PERS: Parameter-Efficient Multi-modal Transfer Learning for Remote Sensing Visual Question Answering</b> was accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing[(JStars)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)</b>.[[paper](https://ieeexplore.ieee.org/abstract/document/10643278/)]
-* Jan 8, 2024, our paper <b>Pefomed: Parameter Efficient Fine-tuning on Multimodal large Language Models for Medical Visual Question Answering</b> was published in [arxiv](https://arxiv.org/). Although the paper is not officially published, it is still a good work.[[paper]](https://arxiv.org/pdf/2401.02797)
-* Dec 14, 2023, our paper <b>PECR: Parameter-Efficient Transfer Learning with Cross-Modal Representation Learning for Remote Sensing Visual Question Answering</b> was accepted by <b>2024 IEEE International Conference on Acoustics, Speech and Signal Processing[(ICASSP 2024)](https://2024.ieeeicassp.org/).</b>[[paper](https://ieeexplore.ieee.org/abstract/document/10446146/)]
-* Oct 6, 2023, I got the <b>National Scholarship for Postgraduate Students </b> (ranked 7/224) - ¥20000 ($2760).
+## 🎓 Academic Journey
+
+🎯 **Education Background**
+- 📚 **Bachelor's & Master's** in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/)
+- 🔬 **Research Experience** under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at **Monash University**
+
+🚀 **Current Status**
+- 🎓 **Ph.D. Candidate** in Mechanical Engineering at [HiLab](https://hilab.uestc.edu.cn/#/index)
+- 🏫 [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51)
+- 👨‍🏫 **Supervisor**: Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)
+
+## 🔬 Research Interests
+
+> 🏥 **Medical Multi-modality** | 🤖 **Medical MLLMs** | ❓ **Medical VQA**
+
+## 🌟 Personal Interests
+
+💪 **Fitness Enthusiast** | 🎮 **PC Gaming** | 📖 **Paper Collector** *(who might not read them all...)*
+
+🤝 **Let's Connect!** I'm always excited to:
+- 🔬 **Collaborate** on research projects
+- 💪 **Work out** together  
+- 🎮 **Game** together
+
+## 🗞️ Recent News & Achievements
+
+### 🎓 2025
+- **🎉 May 23** - Admitted to [UESTC](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) and joined [HiLab](https://hilab.uestc.edu.cn/#/index) as a doctoral student under Prof. [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)
+- **🏆 Apr 8** - Received **2025 Outstanding Graduate of Harbin Engineering University**
+- **📄 Jan 3** - Paper accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**: *Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding* [[📖paper](https://ieeexplore.ieee.org/document/10981029?source=AUTHORALERT&dld=aHJiZXUuZWR1LmNu)]
+
+### 📚 2024
+- **📄 Nov 7** - Paper accepted by **[JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**: *Cross-Modal Self-Supervised Vision Language Pre-training with Multiple Objectives for Medical Visual Question Answering* [[📖paper](https://www.sciencedirect.com/science/article/pii/S1532046424001667)]
+- **📄 Oct 8** - Paper accepted by **[MSN 2024](https://ieee-msn.org/2024/)**: *DSS-DocRE: A DenseNet-Based Semantic Segmentation Model for Document-Level Relation Extraction* 🎉 Congratulations to DongZe!
+- **💰 Sep 21** - Received **Xiaomi Scholarship** (ranked 4/224) - ¥5,000 ($690)
+- **📄 Aug 14** - Paper accepted by **[JStars](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)**: *PERS: Parameter-Efficient Multi-modal Transfer Learning for Remote Sensing Visual Question Answering* [[📖paper](https://ieeexplore.ieee.org/abstract/document/10643278/)]
+- **📄 Jan 8** - Preprint published on [arXiv](https://arxiv.org/): *PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering* [[📖paper](https://arxiv.org/pdf/2401.02797)]
+
+### 🏅 2023
+- **📄 Dec 14** - Paper accepted by **[ICASSP 2024](https://2024.ieeeicassp.org/)**: *PECR: Parameter-Efficient Transfer Learning with Cross-Modal Representation Learning for Remote Sensing Visual Question Answering* [[📖paper](https://ieeexplore.ieee.org/abstract/document/10446146/)]
+- **🥇 Oct 6** - Received **National Scholarship for Postgraduate Students** (ranked 7/224) - ¥20,000 ($2,760)
