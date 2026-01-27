@@ -9,20 +9,17 @@ redirect_from:
 
 ## 🎓 Academic Journey
 
-🎯 **Education Background**
-- 📚 **Bachelor's & Master's** in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/)
-- 🔬 **Research Experience** under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at **Monash University**
-
 🚀 **Current Status**
 - 🎓 **Ph.D. Candidate** in Mechanical Engineering at [HiLab](https://hilab.uestc.edu.cn/#/index)
 - 🏫 [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51)
 - 👨‍🏫 **Supervisor**: Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)
 
-## 🔬 Research Interests
+🎯 **Education Background**
+- 📚 **Bachelor's & Master's** in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/)
+- 🔬 **Research Experience** under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at **Monash University**
 
-> 🏥 **Medical Multi-modality** | 🤖 **Medical MLLMs** | ❓ **Medical VQA**
 
-## 🗞️ Recent News & Achievements
+## 🗞️ Recent News
 
 ### 🎓 2026
 - **📄 Jan 13** - Paper accepted by **[ISBI 2026](https://biomedicalimaging.org/2026/)**: *REAF: A Region-Enhanced Volume-Slice Hierarchical Attention Fusion Vision-Language Model for CT-Report Retrieval* [[💻code](https://github.com/HiLab-git/REAF)]
