@@ -15,7 +15,7 @@ redirect_from:
 - 👨‍🏫 **Supervisor**: Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)
 
 🎯 **Education Background**
-- 📚 **Bachelor's & Master's** in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [Harbin Engineering University](http://www.hrbeu.edu.cn/)
+- 📚 **Bachelor's & Master's** in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) from [College of Computer Science and Technology](https://cstc.hrbeu.edu.cn/), [Harbin Engineering University](http://www.hrbeu.edu.cn/)
 - 🔬 **Research Experience** under the guidance of Researcher [Shenjun Zhong](https://scholar.google.com.au/citations?hl=en&user=MV5J9X8AAAAJ&view_op=list_works&sortby=pubdate) at **Monash University**
 
 
