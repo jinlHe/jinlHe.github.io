@@ -22,7 +22,7 @@ redirect_from:
 ## 🗞️ Recent News
 
 ### 🎓 2026
-- **📄 Jan 13** - Paper accepted by **[ISBI 2026](https://biomedicalimaging.org/2026/)**: *REAF: A Region-Enhanced Volume-Slice Hierarchical Attention Fusion Vision-Language Model for CT-Report Retrieval* [[💻code](https://github.com/HiLab-git/REAF)]
+- **📄 Jan 13** - Paper accepted by **[ISBI 2026](https://biomedicalimaging.org/2026/)** as **Oral**, *REAF: A Region-Enhanced Volume-Slice Hierarchical Attention Fusion Vision-Language Model for CT-Report Retrieval* [[💻code](https://github.com/HiLab-git/REAF)]
 
 ### 🎓 2025
 - **🏆 Sep 2** - Won 2nd place in the [MICCAI 2025 FLARE Challenge](https://flare-medfm.github.io/) 🎉 Congratulations to Huamin!
