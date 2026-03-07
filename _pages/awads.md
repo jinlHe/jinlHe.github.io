@@ -11,20 +11,24 @@ redirect_from:
 
 ## 💰 Academic Awards & Scholarships
 
+### 🎯 **2025**
+- 📚 **Academic Third Class Scholarship** *(Ph.D.)*
+  - ¥10,000 ($1,380)
+
 ### 🎯 **2024**
 - 🏅 **Xiaomi Scholarship** 
   - *Ranking: 4/224* • ¥5,000 ($690)
-- 📚 **Academic First Class Scholarship** 
+- 📚 **Academic First Class Scholarship** *(Master)*
   - *Ranking: 4/224* • ¥10,000 ($1,380)
 
 ### 🎯 **2023** 
 - 🥇 **National Scholarship for Postgraduate Students** 
   - *Ranking: 7/224* • ¥20,000 ($2,760)
-- 📚 **Academic First Class Scholarship** 
+- 📚 **Academic First Class Scholarship** *(Master)*
   - *Ranking: 1/224* • ¥10,000 ($1,380)
 
 ### 🎯 **2022**
-- 📚 **Academic First Class Scholarship** 
+- 📚 **Academic First Class Scholarship** *(Master)*
   - *Ranking: 1/270* • ¥10,000 ($1,380)
 
 ### 🎯 **2021**
@@ -53,6 +57,6 @@ redirect_from:
 
 | Category | Total Amount | Recognition Level |
 |----------|-------------|-------------------|
-| 💰 **Scholarships** | ¥58,000 ($8,004) | National & University |
+| 💰 **Scholarships** | ¥68,000 ($9,384) | National & University |
 | 🏆 **Academic Honors** | 2 Major Awards | Top Graduate Recognition |
 | 🏃‍♂️ **Athletic Records** | 2 Campus Records | University Champions |
