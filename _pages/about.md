@@ -10,7 +10,7 @@ redirect_from:
 ## 🎓 Academic Journey
 
 🚀 **Current Status**
-- 🎓 **Ph.D. Candidate** in Mechanical Engineering at [HiLab](https://hilab.uestc.edu.cn/#/index)
+- 🎓 **Ph.D. Candidate** in Mechanical Engineering at [HiLab](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
 - 🏫 [School of Mechanical and Electrical Engineering](https://www.smee.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51)
 - 👨‍🏫 **Supervisor**: Professor [Guotai Wang](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)
 
