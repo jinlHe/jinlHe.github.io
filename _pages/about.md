@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+If you'd like to know more about me, please visit my [personal website](https://hejinlong.top/).
+
 ## 🎓 Academic Journey
 
 🚀 **Current Status**
